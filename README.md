@@ -9,4 +9,4 @@ The interest rate, grade, and monthly installments for the loan was used to pred
 
 We tested two models: logistic regression and naïve Bayes classification. 
 
-Read here for more: 
+Read here for more: https://wordpress.com/post/beyondtheaverage.wordpress.com/1228
